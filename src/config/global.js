@@ -194,12 +194,12 @@ export default {
   },
   glosario: [
     {
-      termino: 'Big data',
+      termino: '<i>Big data</i>',
       significado:
         'gran volumen de datos complejos, los cuales mediante aplicaciones informáticas son utilizados para diversas aplicaciones para facilitar el análisis y toma de decisiones.',
     },
     {
-      termino: 'Deep learning',
+      termino: '<i>Deep learning</i>',
       significado:
         'denominado en español aprendizaje profundo. método específico de aprendizaje automático (machine learning) que se puede ver en aplicaciones de reconocimiento de voz e imágenes.',
     },
@@ -214,7 +214,7 @@ export default {
         'es la medida de dispersión más utilizada, muestra el nivel de los datos dispersos referente a la media (resultado del promedio de un conjunto de datos). mientras mayor sea la desviación estándar, mayor será la dispersión de los datos.',
     },
     {
-      termino: 'In situ',
+      termino: '<i>In situ</i>',
       significado:
         'es la expresión del idioma latino para decir “en el sitio”.',
     },
@@ -229,9 +229,9 @@ export default {
         'creado para conectar los objetos a internet con el fin de mejorar sus funciones en dichos objetos.',
     },
     {
-      termino: 'Iso',
+      termino: 'ISO',
       significado:
-        'organización internacional de estandarización, ubicada en ginebra, suiza, y con presencia en 193 países. promueve y desarrolla normas para estandarizar productos y servicios.',
+        ' Organización Internacional de Estandarización, ubicada en Ginebra, Suiza, y con presencia en 193 países. promueve y desarrolla normas para estandarizar productos y servicios.',
     },
     {
       termino: 'Lote de producción',
@@ -239,7 +239,7 @@ export default {
         'número establecido para una parte de la producción, la cual tiene características comunes y se agrupa dependiendo de un objetivo determinado; además, permite la trazabilidad del producto y de su proceso productivo.',
     },
     {
-      termino: 'Machine learning',
+      termino: '<i>Machine learning</i>',
       significado:
         'o aprendizaje automático, es una forma de inteligencia artificial utilizada con el fin de mejorar la precisión de los modelos predictivos.',
     },
@@ -264,7 +264,7 @@ export default {
         'pueden ser: (i) explícitos (declarados por el cliente), (ii) implícitos (necesarios para que cumplan función), (iii) legales o reglamentarios (de acuerdo con cumplir leyes), y (iv) de empresa (según las políticas de la empresa).',
     },
     {
-      termino: 'Sigma (σ)',
+      termino: '<i>Sigma (σ)</i>',
       significado:
         'letra del alfabeto griego utilizada para representar la desviación estándar (unidad estadística de medición). representa la dispersión o variabilidad de un conjunto de datos.',
     },
