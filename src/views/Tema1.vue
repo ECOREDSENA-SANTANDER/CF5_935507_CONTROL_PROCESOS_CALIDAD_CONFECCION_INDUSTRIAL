@@ -5,7 +5,17 @@
       .titulo-principal.color-acento-contenido
         .titulo-principal__numero
           span 1
-        h1 Titulo de primer nivel
+        h1 El proceso de control en calidad
+      Separador
+      #t_1_1.titulo-segundo.color-acento-contenido(data-aos='fade-right')
+        h2 1.1 Control de calidad
+      Separador
+      #t_1_2.titulo-segundo.color-acento-contenido(data-aos='fade-right')
+        h2 1.2 Gestión de calidad total
+      Separador
+      #t_1_3.titulo-segundo.color-acento-contenido(data-aos='fade-right')
+        h2 1.3 Sistema de gestión de la calidad: norma ISO 9001:2015
+      
         
 
   </template>

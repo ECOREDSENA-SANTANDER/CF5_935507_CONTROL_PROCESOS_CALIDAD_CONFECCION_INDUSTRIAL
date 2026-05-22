@@ -1,8 +1,9 @@
 export default {
   global: {
-    Name: 'Nombre del recurso educativo',
-    Description: 'Descripción del RED',
-    imagenBannerPrincipal: '@/assets/curso/portada/banner-principal.svg',
+    Name: 'Fundamentos de calidad y ficha técnica',
+    Description:
+      'Identificar los términos técnicos utilizados en calidad, reconocer los antecedentes y la evolución de la calidad y proyectar la implementación de la calidad de acuerdo con los avances tecnológicos en el marco de la industria 4.0. Interpretar la ficha técnica del producto. Identificar y determinar los puntos de control en cada proceso y en la prenda a inspeccionar. Definir la documentación necesaria que apoye el proceso de calidad en las inspecciones requeridas para ejecutar el control de calidad.',
+    imagenBannerPrincipal: '@/assets/curso/portada/banner-principal.png',
     fondoBannerPrincipal: '@/assets/curso/portada/fondo-banner-principal.png',
     imagenesDecorativasBanner: [
       {
@@ -31,28 +32,124 @@ export default {
       {
         nombreRuta: 'tema1',
         numero: '1',
-        titulo: 'Tema 1',
+        titulo: 'El proceso de control en calidad',
         desarrolloContenidos: true,
         subMenu: [
           {
             numero: '1.1',
-            titulo: 'Subtema 1',
+            titulo: 'Control de calidad',
             hash: 't_1_1',
+          },
+          {
+            numero: '1.2',
+            titulo: 'Gestión de calidad total',
+            hash: 't_1_2',
+          },
+          {
+            numero: '1.3',
+            titulo: 'Sistema de gestión de la calidad: norma ISO 9001:2015',
+            hash: 't_1_3',
           },
         ],
       },
-
       {
         nombreRuta: 'tema2',
         numero: '2',
-        titulo: 'Tema 2',
+        titulo: 'Ficha técnica y muestra física',
         desarrolloContenidos: true,
+        subMenu: [
+          {
+            numero: '2.1',
+            titulo: 'Concepto y uso de ficha técnica',
+            hash: 't_2_1',
+          },
+          {
+            numero: '2.2',
+            titulo: 'Partes de ficha técnica',
+            hash: 't_2_2',
+          },
+          {
+            numero: '2.3',
+            titulo: 'Manejo e interpretación ficha técnica',
+            hash: 't_2_3',
+          },
+          {
+            numero: '2.4',
+            titulo: 'Definición y características de la muestra física',
+            hash: 't_2_4',
+          },
+        ],
       },
       {
         nombreRuta: 'tema3',
         numero: '3',
-        titulo: 'Tema 3',
+        titulo: 'Puntos de control de calidad en el proceso de confección',
         desarrolloContenidos: true,
+        subMenu: [
+          {
+            numero: '3.1',
+            titulo: 'Puntos de control en patronaje',
+            hash: 't_3_1',
+          },
+          {
+            numero: '3.2',
+            titulo: 'Puntos de control en trazo y corte',
+            hash: 't_3_2',
+          },
+          {
+            numero: '3.3',
+            titulo: 'Puntos de control en confección',
+            hash: 't_3_3',
+          },
+          {
+            numero: '3.4',
+            titulo: 'Puntos de control en confección de lote piloto',
+            hash: 't_3_4',
+          },
+          {
+            numero: '3.5',
+            titulo: 'Puntos de control en compras: materiales e insumos',
+            hash: 't_3_5',
+          },
+        ],
+      },
+      {
+        nombreRuta: 'tema4',
+        numero: '4',
+        titulo: 'Documentación de calidad',
+        desarrolloContenidos: true,
+        subMenu: [
+          {
+            numero: '4.1',
+            titulo: 'Ficha técnica',
+            hash: 't_4_1',
+          },
+          {
+            numero: '4.2',
+            titulo: 'Orden de corte',
+            hash: 't_4_2',
+          },
+          {
+            numero: '4.3',
+            titulo: 'Master de textiles e insumos',
+            hash: 't_4_3',
+          },
+          {
+            numero: '4.4',
+            titulo: 'Registro de inspección de producto en proceso',
+            hash: 't_4_4',
+          },
+          {
+            numero: '4.5',
+            titulo: 'Registro de inspección de producto terminado',
+            hash: 't_4_5',
+          },
+          {
+            numero: '4.6',
+            titulo: 'Registro de inspección de lote piloto',
+            hash: 't_4_6',
+          },
+        ],
       },
     ],
     subMenu: [
@@ -97,14 +194,126 @@ export default {
   },
   glosario: [
     {
-      termino: 'Término',
-      significado: 'Definición',
+      termino: 'Big data',
+      significado:
+        'gran volumen de datos complejos, los cuales mediante aplicaciones informáticas son utilizados para diversas aplicaciones para facilitar el análisis y toma de decisiones.',
+    },
+    {
+      termino: 'Deep learning',
+      significado:
+        'denominado en español aprendizaje profundo. método específico de aprendizaje automático (machine learning) que se puede ver en aplicaciones de reconocimiento de voz e imágenes.',
+    },
+    {
+      termino: 'Defecto',
+      significado:
+        'es una no conformidad en características requeridas por el cliente o una norma y que causa incumplimiento del requisito y por tanto insatisfacción del cliente.',
+    },
+    {
+      termino: 'Desviación estándar',
+      significado:
+        'es la medida de dispersión más utilizada, muestra el nivel de los datos dispersos referente a la media (resultado del promedio de un conjunto de datos). mientras mayor sea la desviación estándar, mayor será la dispersión de los datos.',
+    },
+    {
+      termino: 'In situ',
+      significado:
+        'es la expresión del idioma latino para decir “en el sitio”.',
+    },
+    {
+      termino: 'Inteligencia artificial',
+      significado:
+        'son los diversos programas y mecanismos que funcionan parecido a los humanos, es decir, muestran comportamientos inteligentes, como por ejemplo realizar análisis predictivos con los datos obtenidos.',
+    },
+    {
+      termino: 'Internet de las cosas',
+      significado:
+        'creado para conectar los objetos a internet con el fin de mejorar sus funciones en dichos objetos.',
+    },
+    {
+      termino: 'Iso',
+      significado:
+        'organización internacional de estandarización, ubicada en ginebra, suiza, y con presencia en 193 países. promueve y desarrolla normas para estandarizar productos y servicios.',
+    },
+    {
+      termino: 'Lote de producción',
+      significado:
+        'número establecido para una parte de la producción, la cual tiene características comunes y se agrupa dependiendo de un objetivo determinado; además, permite la trazabilidad del producto y de su proceso productivo.',
+    },
+    {
+      termino: 'Machine learning',
+      significado:
+        'o aprendizaje automático, es una forma de inteligencia artificial utilizada con el fin de mejorar la precisión de los modelos predictivos.',
+    },
+    {
+      termino: 'Muestra',
+      significado:
+        'número representativo de prendas del lote de producción; por medio de ella se deduce el cumplimiento de los requisitos de calidad de todo el lote.',
+    },
+    {
+      termino: 'Punto de control',
+      significado:
+        'son partes del proceso determinadas con la metodología de árbol de decisión. son las operaciones, fases o procesos en los que se requiere realizar inspecciones para controlar la ocurrencia de defectos, lo cual es una medida preventiva.',
+    },
+    {
+      termino: 'Punto de control crítico',
+      significado:
+        'operaciones, fases o procesos que requieren de riguroso control debido a que representan alto riesgo de presentar defectos y por tanto no cumplir con los requisitos.',
+    },
+    {
+      termino: 'Requisitos',
+      significado:
+        'pueden ser: (i) explícitos (declarados por el cliente), (ii) implícitos (necesarios para que cumplan función), (iii) legales o reglamentarios (de acuerdo con cumplir leyes), y (iv) de empresa (según las políticas de la empresa).',
+    },
+    {
+      termino: 'Sigma (σ)',
+      significado:
+        'letra del alfabeto griego utilizada para representar la desviación estándar (unidad estadística de medición). representa la dispersión o variabilidad de un conjunto de datos.',
     },
   ],
   referencias: [
     {
-      referencia: '---',
-      link: '---',
+      referencia:
+        'Arias de Valencia, A. (1978). Qué es control de calidad. Servicio Nacional de Aprendizaje (SENA).',
+      link: 'https://hdl.handle.net/11404/5988',
+    },
+    {
+      referencia:
+        'Crosby P. (1994). La Calidad es libre. Madrid. Mc Graw Hill.',
+    },
+    {
+      referencia:
+        'Deming, W. (1989). Calidad, Productividad y Competitividad. Díaz de Santos.',
+    },
+    {
+      referencia:
+        'Evans , J. R., & Lindsay, W. M. (2005). Administración y control de calidad. Thomson.',
+    },
+    {
+      referencia:
+        'Ishikawa K. (1994). Introducción al Control de Calidad. Díaz de Santos.',
+    },
+    {
+      referencia:
+        'Juran. J. Gryna, F.M. (1993). Manual de Control de Calidad. Mc Graw Hill.',
+    },
+    {
+      referencia:
+        'León Lefcovich, M. (2009). Preguntas y respuestas sobre Seis Sigma. El Cid Editor | apuntes.',
+      link: 'https://elibro-net.bdigital.sena.edu.co/es/ereader/senavirtual/31384?page=6',
+    },
+    {
+      referencia:
+        'Mejía M, M. (1991). Control de calidad total: una manera diferente de orientar la dirección de la empresa [E-book]. Servicio Nacional de Aprendizaje (SENA). Consultado el 21 de septiembre de 2020 en',
+      link: 'https://hdl.handle.net/11404/3483',
+    },
+    {
+      referencia:
+        'OBS Business School . (s.f.). OBS Business School . Obtenido de Project Managemnet:',
+      link: 'https://obsbusiness.school/es/blog-project-management/temas-actuales-de-project-management/metodo-kaizen-aplicacion-y-beneficios',
+    },
+    {
+      referencia:
+        'Six Sigma Lean solutions. (2020). [Blog]. Consultado el 22 de septiembre de 2020, en',
+      link: 'http://leansolutions.co/conceptos-lean/que-es-six-sigma/',
     },
   ],
   creditos: [
@@ -118,7 +327,7 @@ export default {
           centro: 'Centro Agroturístico - Regional Santander',
         },
         {
-          nombre: '---',
+          nombre: 'Edison Eduardo Mantilla Cuadros',
           cargo: 'Responsable de línea de producción',
           centro: 'Centro Agroturístico - Regional Santander',
         },
@@ -128,9 +337,14 @@ export default {
       titulo: 'CONTENIDO INSTRUCCIONAL',
       autores: [
         {
-          nombre: ' ',
-          cargo: ' ',
-          centro: 'Centro XYZ - Regional XYZ',
+          nombre: '--',
+          cargo: 'Experto temático',
+          centro: 'Centro Agroturístico - Regional Santander',
+        },
+        {
+          nombre: '--',
+          cargo: 'Evaluadora instruccional',
+          centro: 'Centro Agroturístico - Regional Santander',
         },
       ],
     },
@@ -138,18 +352,18 @@ export default {
       titulo: 'DISEÑO Y DESARROLLO DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: ' ',
-          cargo: 'Diseñador de contenidos',
+          nombre: 'Yazmin Rocio Figueroa Pacheco',
+          cargo: 'Diseñadora de contenidos',
           centro: 'Centro Agroturístico - Regional Santander',
         },
         {
-          nombre: ' ',
-          cargo: 'Desarrollador <i>full stack</i>',
+          nombre: 'Lizeth Karina Manchego Suarez',
+          cargo: 'Desarrolladora <em>full stack</em>',
           centro: 'Centro Agroturístico - Regional Santander',
         },
         {
-          nombre: ' ',
-          cargo: 'Animador y productor audiovisual',
+          nombre: 'Maria Alejandra Vera Briceño',
+          cargo: 'Animadora y productora audiovisual',
           centro: 'Centro Agroturístico - Regional Santander',
         },
       ],
@@ -158,13 +372,13 @@ export default {
       titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
       autores: [
         {
-          nombre: ' ',
-          cargo: 'Validador y vinculador de recursos educativos digitales',
+          nombre: '--',
+          cargo: 'Validadora y vinculadora de recursos educativos digitales',
           centro: 'Centro Agroturístico - Regional Santander',
         },
         {
-          nombre: ' ',
-          cargo: 'Evaluador de contenidos inclusivos y accesibles',
+          nombre: '--',
+          cargo: 'Evaluadora de contenidos inclusivos y accesibles',
           centro: 'Centro Agroturístico - Regional Santander',
         },
       ],
