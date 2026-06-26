@@ -2,7 +2,7 @@ export default {
   global: {
     Name: 'Fundamentos de calidad y ficha técnica',
     Description:
-      'Identificar los términos técnicos utilizados en calidad, reconocer los antecedentes y la evolución de la calidad y proyectar la implementación de la calidad de acuerdo con los avances tecnológicos en el marco de la industria 4.0. Interpretar la ficha técnica del producto. Identificar y determinar los puntos de control en cada proceso y en la prenda a inspeccionar. Definir la documentación necesaria que apoye el proceso de calidad en las inspecciones requeridas para ejecutar el control de calidad.',
+      'Este componente aborda los fundamentos del control de calidad en la confección industrial, la interpretación de la ficha técnica y la muestra física, la identificación de puntos de control en patronaje, corte y confección, y la documentación requerida para registrar, inspeccionar y mejorar los procesos productivos de acuerdo con especificaciones técnicas y requisitos de calidad.',
     imagenBannerPrincipal: '@/assets/curso/portada/banner-principal.png',
     fondoBannerPrincipal: '@/assets/curso/portada/fondo-banner-principal.png',
     imagenesDecorativasBanner: [
@@ -201,7 +201,7 @@ export default {
     {
       termino: '<i>Deep learning</i>',
       significado:
-        'denominado en español aprendizaje profundo. método específico de aprendizaje automático (machine learning) que se puede ver en aplicaciones de reconocimiento de voz e imágenes.',
+        'denominado en español aprendizaje profundo. método específico de aprendizaje automático (<i>machine learning</i>) que se puede ver en aplicaciones de reconocimiento de voz e imágenes.',
     },
     {
       termino: 'Defecto',
@@ -211,7 +211,7 @@ export default {
     {
       termino: 'Desviación estándar',
       significado:
-        'es la medida de dispersión más utilizada, muestra el nivel de los datos dispersos referente a la media (resultado del promedio de un conjunto de datos). mientras mayor sea la desviación estándar, mayor será la dispersión de los datos.',
+        'es la medida de dispersión más utilizada, muestra el nivel de los datos dispersos referente a la media (resultado del promedio de un conjunto de datos), mientras mayor sea la desviación estándar, mayor será la dispersión de los datos.',
     },
     {
       termino: '<i>In situ</i>',
@@ -239,9 +239,9 @@ export default {
         'número establecido para una parte de la producción, la cual tiene características comunes y se agrupa dependiendo de un objetivo determinado; además, permite la trazabilidad del producto y de su proceso productivo.',
     },
     {
-      termino: '<i>Machine learning</i>',
+      termino: '<i>Machine learning</i> o aprendizaje automático',
       significado:
-        'o aprendizaje automático, es una forma de inteligencia artificial utilizada con el fin de mejorar la precisión de los modelos predictivos.',
+        'es una forma de inteligencia artificial utilizada con el fin de mejorar la precisión de los modelos predictivos.',
     },
     {
       termino: 'Muestra',
@@ -261,7 +261,7 @@ export default {
     {
       termino: 'Requisitos',
       significado:
-        'pueden ser: (i) explícitos (declarados por el cliente), (ii) implícitos (necesarios para que cumplan función), (iii) legales o reglamentarios (de acuerdo con cumplir leyes), y (iv) de empresa (según las políticas de la empresa).',
+        'se consideran explicitos (declarados por el cliente), implícitos (necesarios para que cumplan una función), legales o reglamentarios (de acuerdo con cumplir leyes) y de la empresa (según las políticas de una organización).',
     },
     {
       termino: '<i>Sigma (σ)</i>',
@@ -273,7 +273,6 @@ export default {
     {
       referencia:
         'Arias de Valencia, A. (1978). Qué es control de calidad. Servicio Nacional de Aprendizaje (SENA).',
-      link: 'https://hdl.handle.net/11404/5988',
     },
     {
       referencia:
@@ -285,7 +284,15 @@ export default {
     },
     {
       referencia:
-        'Evans , J. R., & Lindsay, W. M. (2005). Administración y control de calidad. Thomson.',
+        'Evans, J. R., & Lindsay, W. M. (2005). Administración y control de calidad. Thomson.',
+    },
+    {
+      referencia:
+        'Feigenbaum, A. V. (2000). Control total de la calidad (3.ª ed.). Compañía Editorial Continental.',
+    },
+    {
+      referencia:
+        'International Organization for Standardization. (2005). Sistemas de gestión de la calidad—Fundamentos y vocabulario (ISO 9000:2005).',
     },
     {
       referencia:
@@ -293,27 +300,22 @@ export default {
     },
     {
       referencia:
-        'Juran. J. Gryna, F.M. (1993). Manual de Control de Calidad. Mc Graw Hill.',
+        'Juran, J. Gryna, F.M. (1993). Manual de Control de Calidad. Mc Graw Hill.',
     },
     {
       referencia:
         'León Lefcovich, M. (2009). Preguntas y respuestas sobre Seis Sigma. El Cid Editor | apuntes.',
-      link: 'https://elibro-net.bdigital.sena.edu.co/es/ereader/senavirtual/31384?page=6',
     },
     {
       referencia:
-        'Mejía M, M. (1991). Control de calidad total: una manera diferente de orientar la dirección de la empresa [E-book]. Servicio Nacional de Aprendizaje (SENA). Consultado el 21 de septiembre de 2020 en',
-      link: 'https://hdl.handle.net/11404/3483',
+        'Mejía, M.M. (1991). Control de calidad total: una manera diferente de orientar la dirección de la empresa [E-book]. Servicio Nacional de Aprendizaje (SENA).',
     },
     {
       referencia:
-        'OBS Business School . (s.f.). OBS Business School . Obtenido de Project Managemnet:',
-      link: 'https://obsbusiness.school/es/blog-project-management/temas-actuales-de-project-management/metodo-kaizen-aplicacion-y-beneficios',
+        'OBS Business School. (s.f.). OBS Business School. Obtenido de Project Management.',
     },
     {
-      referencia:
-        'Six Sigma Lean solutions. (2020). [Blog]. Consultado el 22 de septiembre de 2020, en',
-      link: 'http://leansolutions.co/conceptos-lean/que-es-six-sigma/',
+      referencia: 'Six Sigma Lean solutions. (2020). [Blog].',
     },
   ],
   creditos: [
@@ -373,9 +375,9 @@ export default {
           centro: 'Centro Agroturístico - Regional Santander',
         },
         {
-          nombre: 'Erika Daniela Manrique Rueda',
-          cargo: 'Evaluadora de contenidos inclusivos y accesibles',
-          centro: 'Centro Agroturístico - Regional Santander',
+          nombre: 'Jorge Eduardo Rueda Peña',
+          cargo: 'Evaluador de contenidos inclusivos y accesibles',
+          centro: 'Centro de Comercio y Servicios - Regional Tolima',
         },
       ],
     },

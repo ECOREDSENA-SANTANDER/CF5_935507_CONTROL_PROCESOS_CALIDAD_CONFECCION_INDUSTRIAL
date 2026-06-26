@@ -8,7 +8,7 @@
         span
           i.fas.fa-info
       h1 Introducción
-    p.mb-5 Garantizar la calidad de un producto actualmente se ha convertido en un factor competitivo, el cual permite posicionamiento en el mercado y reconocimiento de la marca por parte del consumidor, es por ello que las empresas deben asegurar que su producción, en este caso textil, cumpla con los requisitos de diseño técnico y de la normativa aplicable al sector.
+    p.mb-5 Garantizar la calidad de un producto actualmente se ha convertido en un factor competitivo, el cual permite posicionamiento en el mercado y reconocimiento de la marca por parte del consumidor; es por ello que las empresas deben asegurar que su producción, en este caso textil, cumpla con los requisitos de diseño técnico y de la normativa aplicable al sector.
     
     .row.justify-content-center.mb-5
       .col-sm-12.col-lg-4.d-none.d-lg-block

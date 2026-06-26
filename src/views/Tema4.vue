@@ -8,7 +8,7 @@
         h1 Documentación de calidad
       
       img.d-none.d-lg-block.mb-5(src='@/assets/curso/temas/t4/1.png', alt='')(data-aos='fade-right')
-      p.mb-0(data-aos='fade-right') Documentar los procesos permite tener un marco claro de trabajo en las operaciones de producción, y proporciona evidencias para el logro de la calidad esperada en el producto, es por ello que cada empresa puede diseñar su documentación con el fin de centrar sus procesos en la eficiencia y crear registros que documenten los procesos y se ajusten a la documentación solicitada en los estándares de calidad.
+      p.mb-0(data-aos='fade-right') Documentar los procesos permite tener un marco claro de trabajo en las operaciones de producción, y proporciona evidencias para el logro de la calidad esperada en el producto; es por ello que cada empresa puede diseñar su documentación con el fin de centrar sus procesos en la eficiencia y crear registros que documenten los procesos y se ajusten a la documentación solicitada en los estándares de calidad.
       
       
       

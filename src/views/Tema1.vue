@@ -9,17 +9,26 @@
       
       
       .row.justify-content-center.mb-0(data-aos='fade-right')
-        .col-sm-12.col-lg-7
+        .col-sm-12.col-lg-8
           .bloque-texto-e.color-primario.pcus-1.mb-3
             .bloque-texto-e__texto
               i.fas.fa-quote-left
-              p.mb-0.text-white.fw-bold El control es la actividad que garantiza la conformidad con los equipos y emprende una acción correctiva cuando es necesario, a fin de solucionar los problemas y mantener un desempeño estable. Cualquier sistema de control tiene tres componentes: (1) una norma o meta; (2) un medio para medir los resultados, y (3) comparación de los resultados reales con la norma, además de retroalimentación con el fin de tener una base para la acción correctiva. Las metas y normas se definen durante los procesos de planeación y diseño; establecen lo que se supone que se debe lograr. Estas metas y normas se reflejan en las características de la calidad que se pueden medir, como las dimensiones en las partes producidas, número de productos defectuosos, quejas del cliente o los tiempos de espera. Los indicadores proporcionan la información acerca de lo que se logró realmente. Trabajadores, supervisores o gerentes evalúan si los resultados reales cumplen con las metas y las normas; de lo contrario, es preciso emprender una acción correctiva
+              p.mb-3.text-white.fw-bold El control es la actividad que permite verificar si los procesos cumplen con las metas establecidas y aplicar acciones correctivas cuando se presentan desviaciones.
+
+              .d-flex.flex-column.mb-3
+                p.mt-3.text-white.fw-bold Todo sistema de control está compuesto por tres elementos principales:
+                p.mb-0.text-white.fw-bold 1. Una norma o meta definida.
+                p.mb-0.text-white.fw-bold 2. Un medio para medir los resultados.
+                p.mb-3.text-white.fw-bold 3. La comparación entre los resultados obtenidos y la norma, junto con la retroalimentación necesaria para orientar la acción correctiva.
+              
+                p.mb-3.text-white.fw-bold Las metas y normas se definen durante los procesos de planeación y diseño, y establecen lo que se espera lograr. Estas se reflejan en características de calidad medibles, como las dimensiones de las partes producidas, el número de productos defectuosos, las quejas del cliente o los tiempos de espera.
+              p.mb-0.text-white.fw-bold Los indicadores proporcionan información sobre los resultados reales. A partir de ellos, trabajadores, supervisores o gerentes evalúan si dichos resultados cumplen con las metas y normas establecidas; en caso contrario, se deben implementar acciones correctivas
               i.fas.fa-quote-right
             .row.align-items-start
               .col
                 .bloque-texto-e__autor 
                   p.mb-0.text-white (Evans & Lindsay, 2005).
-        .col-sm-12.col-lg-5.d-none.d-lg-block
+        .col-sm-12.col-lg-4.d-none.d-lg-block
           img.wcus-1(src='@/assets/curso/temas/t1/1.png', alt='')
       
       
@@ -39,7 +48,7 @@
         .col-sm-12.col-lg-3.d-none.d-lg-block
           img(src='@/assets/curso/temas/t1/2.png', alt='')
         .col-sm-12.col-lg-9
-          p.mb-3 La evolución de la industrialización ha requerido ejercer control en los procesos para disminuir los desperdicios y los reprocesos en la producción, dado el mayor nivel de unidades producidas, es por ello que se recurre a la estandarización de procesos y de las características del producto fabricado. 
+          p.mb-3 La evolución de la industrialización ha requerido ejercer control en los procesos para disminuir los desperdicios y los reprocesos en la producción, dado el mayor nivel de unidades producidas; es por ello que se recurre a la estandarización de procesos y de las características del producto fabricado. 
           p.mb-3 Teniendo en cuenta lo anterior, revisar la producción proporciona mayor confianza en el cliente, mejora la competitividad y se convierte en una herramienta de control de la empresa.
           p.mb-3 Es importante mencionar los principios de la calidad para efectuar su control:
           .row.justify-content-center.mb-5
@@ -90,23 +99,24 @@
               li.d-flex.mb-3
                 .lista-ol--cuadro__vineta
                   span.text-sistema.fw-bold 1
-                p.mb-0 W. Edwards Deming (1988), reconocido como el padre de la calidad, menciona el significado de calidad, como producir un producto a bajo costo con características medibles que satisfagan al cliente.
+                p.mb-0  Deming (1989), reconocido como el padre de la calidad, menciona el significado de calidad, como producir un producto a bajo costo con características medibles que satisfagan al cliente.
               li.d-flex.mb-3
                 .lista-ol--cuadro__vineta
                   span.text-sistema.fw-bold 2
-                p.mb-0 Kaoru Ishikawa (1988), entiende la calidad como el valor percibido por el cliente respecto a sus características técnicas, costo y funcionalidad del producto recibido; resalta el control en todos los procesos y las funciones de personas involucradas para obtener el producto más útil, más económico, y satisfactorio al consumidor final.
+                p.mb-0 Ishikawa (1994), entiende la calidad como el valor percibido por el cliente respecto a sus características técnicas, costo y funcionalidad del producto recibido; resalta el control en todos los procesos y las funciones de personas involucradas para obtener el producto más útil, más económico, y satisfactorio al consumidor final.
               li.d-flex.mb-3
                 .lista-ol--cuadro__vineta
                   span.text-sistema.fw-bold 3
-                p.mb-0 Armand V. Feigenbaum (2000), comprendió que el inicio de la calidad parte desde el diseño del producto y finaliza cuando el consumidor lo utiliza.
+                p.mb-0 Feigenbaum (2000) sostuvo que la calidad comienza desde el diseño del producto y se mantiene hasta su uso por parte del consumidor.
+
               li.d-flex.mb-3
                 .lista-ol--cuadro__vineta
                   span.text-sistema.fw-bold 4
-                p.mb-0 M. Juran (1993), concibe la calidad como un conjunto de características que satisfacen al cliente sin tener errores.
+                p.mb-0 Juran y Gryna (1993) plantean que la calidad se relaciona con las características del producto que satisfacen las necesidades del cliente y con la ausencia de errores o deficiencias.
               li.d-flex
                 .lista-ol--cuadro__vineta
                   span.text-sistema.fw-bold 5
-                p.mb-0 Philip B. Crosby (1996), resaltó en el concepto el cumplimiento de requisitos y de normas. Ilustra el efecto de la no conformidad y enfoca la atención en temas de prevención.
+                p.mb-0 Crosby (1979), resaltó en el concepto el cumplimiento de requisitos y de normas. Ilustra el efecto de la no conformidad y enfoca la atención en temas de prevención.
         .col-sm-12.col-lg-4.d-none.d-lg-block
           img(src='@/assets/curso/temas/t1/4.svg', alt='')
       
@@ -127,7 +137,7 @@
             .col-sm-12.col-lg-10
                 p.mb-2 Una vez se tienen definidos los objetivos y los requisitos de calidad del producto, se entiende que se deben controlar las variaciones de esas características, cualidades o especificaciones exigidas sea por el cliente o de acuerdo con una norma. 
                 p.mb-0 Se conoce como control de la calidad, al proceso conformado por una serie de técnicas estadísticas aplicadas a procesos industriales para analizar el comportamiento de las variaciones de los requisitos del producto, con el fin de establecer acciones que mejoren el producto final y su calidad, en pro de aumentar las ventas y la productividad de la empresa.
-          p.mb-3 El control de calidad no sólo está encaminado a las inspecciones del producto terminado, sino a las inspecciones durante el proceso de producción.
+          p.mb-3 El control de calidad no solo está encaminado a las inspecciones del producto terminado, sino a las inspecciones durante el proceso de producción.
           .bloque-texto-e.bg-color-4.px-4.py-3.mb-0
             .bloque-texto-e__texto
               i.fas.fa-quote-left
@@ -224,7 +234,7 @@
                   ul.lista-ul--color.mb-0
                     li.d-flex.mb-0
                       i.fas.fa-circle.icon-list-2
-                      p.mb-0 A partir de segunda guerra mundial, años 40´s. 
+                      p.mb-0 A partir de segunda guerra mundial, años 40. 
                     li.d-flex.mb-0
                       i.fas.fa-circle.icon-list-2
                       p.mb-0 Estudios de métodos y tiempos para mejorar eficiencia. 
@@ -301,7 +311,7 @@
                       p.mb-0 Desarrollo de personal: capacitación y entrenamiento.
                     li.d-flex.mb-0
                       i.fas.fa-circle.icon-list-2
-                      p.mb-0 Se involucran todas las áreas y todas las personas de la empresa.
+                      p.mb-0.tcus-1 Se involucran todas las áreas y todas las personas de la empresa.
 
               .row.justify-content-center.align-items-center
                 .col-md-6.mb-4.mb-md-0
@@ -329,7 +339,7 @@
             .col-lg-1.d-none.d-lg-block
               img(src='@/assets/curso/temas/t1/18.svg', alt='')
             .col-lg-9.mb-cus
-               h2.mb-3.text-white Calidad: instrumento capaz de garantizar el éxito de la gestión a largo plazo evolución del significado de calidad
+               h2.mb-3.text-white Calidad: instrumento capaz de garantizar el éxito de la gestión a largo plazo evolución del significado de calidad.
                p.mb-0.text-white Para comprender los términos relacionados con la evolución de la calidad puede leer el documento.
             .col-lg-2
                a.boton.color-acento-botones(:href="obtenerLink('/downloads/Calidad_instrumento_capaz_garanitzar_exito.pdf')" target="_blank")
@@ -410,14 +420,14 @@
       .titulo-tercer-nivel.mb-4(data-aos='fade-right')
         img.titulo-tercer-nivel__icon(src='@/assets/curso/temas/bg/1.svg')
         h3.titulo-tercer-nivel__text.mb-0.px-0.py-2 Automatización en control de calidad en la industria textil y confección
-      p.mb-5(data-aos='fade-right') Se denomina calidad 4.0 a la relacionada con la revolución digital, teniendo en cuenta las tecnologías de big data, inteligencia artificial, machine learning, deep learning e internet de las cosas.
+      p.mb-5(data-aos='fade-right') Se denomina calidad 4.0 a la relacionada con la revolución digital, teniendo en cuenta las tecnologías de #[i big data], inteligencia artificial, #[i machine learning, deep learning] e internet de las cosas.
       .bloque-texto-g.bloque-texto-g--inverso.bg-color-5.p-3.p-sm-4.p-md-5.br-1.mb-0
         .bloque-texto-g__img.d-none.d-lg-block(
           :style="{ backgroundImage: `url(${require_src('@/assets/curso/temas/t1/21.png')})` }")
         
         .bloque-texto-g__texto.p-4.d-flex.flex-column
-          p.mb-3 La automatización de los procesos proporciona agilidad, más seguridad en los datos porque disminuye la presentación de datos incorrectos y más conocimiento sobre cada área de la empresa. La implementación básica de la automatización se refiere a la utilización de software especializado en las herramientas de calidad, como por ejemplo, programas estadísticos como SPSS, STATGRAPHICS CENTURION, SAS, otros relacionados con el internet de las cosas, como la geolocalización con aplicaciones como los códigos QR, y las relacionadas con las herramientas de lean manufacturing.
-          p.mb-0 Con la integración de datos y su tratamiento avanzado se pueden simular los procesos para mejorar la gestión de calidad virtual. Además, las personas encargadas directamente con la calidad pueden desarrollar actividades de manera remota sin necesidad de su presencia in situ en la empresa. También pueden apoyar en la planificación de auditorías, en el mejoramiento de implementación de la metodología de las 5S.
+          p.mb-3 La automatización de los procesos proporciona agilidad, más seguridad en los datos porque disminuye la presentación de datos incorrectos y más conocimiento sobre cada área de la empresa. La implementación básica de la automatización se refiere a la utilización de software especializado en las herramientas de calidad, como por ejemplo, programas estadísticos como SPSS, STATGRAPHICS CENTURION, SAS, otros relacionados con el internet de las cosas, como la geolocalización con aplicaciones como los códigos QR, y las relacionadas con las herramientas de #[i lean manufacturing].
+          p.mb-0 Con la integración de datos y su tratamiento avanzado se pueden simular los procesos para mejorar la gestión de calidad virtual. Además, las personas encargadas directamente con la calidad pueden desarrollar actividades de manera remota sin necesidad de su presencia #[i in situ] en la empresa. También pueden apoyar en la planificación de auditorías, en el mejoramiento de implementación de la metodología de las 5S.
 
 
 
@@ -436,8 +446,8 @@
           img(src='@/assets/curso/temas/t1/22.png', alt='')
         .col-sm-12.col-lg-7
           .bg-color-1.p-5.mb-5
-            h4.mb-4.text-white La Organización Internacional para la Estandarización (ISO), la define como “las actividades coordinadas para dirigir y controlar una organización en aquello relativo a la calidad. La dirección y control, en aquello relativo a la calidad, generalmente incluye el establecimiento de la política de la calidad y los objetivos de la calidad, el aseguramiento de la calidad y la mejora de la calidad"
-            p.mb-0.text-white (ISO, 2005a).
+            h4.mb-4.text-white La Organización Internacional para la Estandarización define la gestión de la calidad como "las actividades coordinadas para dirigir y controlar una organización en aquello relativo a la calidad. La dirección y control, en aquello relativo a la calidad, generalmente incluye el establecimiento de la política de la calidad y los objetivos de la calidad, el aseguramiento de la calidad y la mejora de la calidad"
+            p.mb-0.text-white (ISO, 2005).
           p.mb-0 Para realizar una gestión de calidad en la empresa se deben tener en cuenta los siguientes enfoques:
       
       
@@ -495,7 +505,7 @@
             h5 Figura 1. 
             span Ciclo de la calidad para la mejora continua.
           figure
-              img(src='@/assets/curso/temas/t1/30.svg', alt='Gráfico circular que ilustra un proceso de mejora en cuatro etapas secuenciales: 1 Planear, 2 Hacer, 3 Verificar y 4 Actuar')
+              img(src='@/assets/curso/temas/t1/30.svg', alt='Gráfico circular que ilustra un proceso de mejora en cuatro etapas secuenciales: 1. Planear, 2. Hacer, 3. Verificar y 4. Actuar')
       
       .titulo-tercer-nivel.mb-5(data-aos='fade-right')
         img.titulo-tercer-nivel__icon(src='@/assets/curso/temas/bg/1.svg')
@@ -506,7 +516,7 @@
           img(src='@/assets/curso/temas/t1/31.png', alt='')
         .col-sm-12.col-lg-7
           p.mb-3 Es el conjunto de principios, valores y comportamientos que rigen la forma de actuar de un grupo de personas que hacen parte de la organización, y que trabajan de manera voluntaria para mejorar el funcionamiento de las áreas de trabajo, para que interactúen entre ellas y logren en equipo los objetivos propuestos en relación con la calidad del producto y la satisfacción del cliente. Su implementación requiere de capacitación efectiva y constante, interacción mediante comunicación asertiva y eficaz para seguir construyendo una cultura de calidad sólida.
-          p.mb-0 La metodología sugerida para la implementación de esta cultura dentro de una organización son los círculos de calidad desarrollados por Kauro Ishikawa, quien creía que la calidad empieza con el cliente, y por tanto, comprender sus necesidades es la base para la mejora continua.
+          p.mb-0 La metodología sugerida para la implementación de esta cultura dentro de una organización son los círculos de calidad desarrollados por Kaoru Ishikawa, quien creía que la calidad empieza con el cliente, y por tanto, comprender sus necesidades es la base para la mejora continua.
 
       
       .row.justify-content-center.mb-5(data-aos='fade-right')
@@ -617,7 +627,7 @@
                 tr
                   td
                   td.text-center.fw-bold 2
-                  td Identificar/clarificar el objetivo Kaizen.
+                  td Identificar / clarificar el objetivo Kaizen.
                   td Mejorar servicio, reducir defectos, mejorar productividad, entre otros.
                 tr
                   td
@@ -633,12 +643,12 @@
                   td
                   td.text-center.fw-bold 5
                   td Entender la situación actual.
-                  td Documentar flujo de información, calcular takt time, diagrama espagueti, documentación.
+                  td Documentar flujo de información, calcular takt #[i time], diagrama espagueti, documentación.
                 tr
                   td
                   td.text-center.fw-bold 6
                   td Imaginar la situación ideal.
-                  td Producir al ritmo takt time, introducir técnica Poka – Yoke, eliminar tiempos de espera, analizar movimientos.
+                  td Producir al ritmo takt #[i time], introducir técnica Poka – Yoke, eliminar tiempos de espera, analizar movimientos.
                 tr
                   td
                   td.text-center.fw-bold 7
@@ -658,7 +668,7 @@
                   td.text-center #[b Hacer]
                   td.text-center.fw-bold 10
                   td Implementar el Kaizen.
-                  td Desarrollar el evento según lo planeado, mejorar métodos, modificar layout, observar comportamientos, realizar cambios.
+                  td Desarrollar el evento según lo planeado, mejorar métodos, modificar #[i layout], observar comportamientos, realizar cambios.
                 tr
                   td
                   td.text-center.fw-bold 11
@@ -702,14 +712,14 @@
                 p.mb-0 Que obtienen un mejor servicio y se benefician de productos de mayor calidad y con menos defectos.
             .row(numero="7" titulo="Optimización de la resolución de problemas")
               .col-12
-                p.mb-0 Al enfocar los procesos desde una perspectiva de búsqueda de soluciones, los propios empleados están 
+                p.mb-0 Al enfocar los procesos desde una perspectiva de búsqueda de soluciones, los propios empleados están capacitados para resolver problemas de forma continua. 
             .row(numero="8" titulo="Fortalecimiento de los equipos")
               .col-12
                 p.mb-0 Al trabajar juntos para resolver problemas, gracias al método Kaizen se fortalecen los vínculos y se construyen equipos mejores y más resistentes, preparados para afrontar cualquier desafío” (OBS Business School, s.f.).
 
       .titulo-tercer-nivel.mb-5(data-aos='fade-right')
         img.titulo-tercer-nivel__icon(src='@/assets/curso/temas/bg/1.svg')
-        h3.titulo-tercer-nivel__text.mb-0.px-0.py-2 Six sigma
+        h3.titulo-tercer-nivel__text.mb-0.px-0.py-2 #[i Six sigma]
       
       .row.justify-content-center.mb-5(data-aos='fade-right')
         .col-sm-12.col-lg-8
@@ -770,7 +780,7 @@
                       img(src='@/assets/curso/temas/t1/47.svg' alt='')
                   .bg-color-1.px-3.py-1.mb-3
                     h4.mb-0.text-center.text-white Controlar
-                  p.mb-0  Tomar medidas para mantener el progreso, valorando en términos económicos y el nivel de satisfacción al cliente. Los cuales se realizan mediante métodos estadísticos de seguimiento de variables del proceso)
+                  p.mb-0  Tomar medidas para mantener el progreso, valorando en términos económicos y el nivel de satisfacción al cliente. Los cuales se realizan mediante métodos estadísticos de seguimiento de variables del proceso.
 
 
 
