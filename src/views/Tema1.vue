@@ -12,8 +12,7 @@
         .col-sm-12.col-lg-8
           .bloque-texto-e.color-primario.pcus-1.mb-3
             .bloque-texto-e__texto
-              i.fas.fa-quote-left
-              p.mb-3.text-white.fw-bold El control es la actividad que permite verificar si los procesos cumplen con las metas establecidas y aplicar acciones correctivas cuando se presentan desviaciones.
+              p.mb-3.text-white.fw-bold "El control es la actividad que permite verificar si los procesos cumplen con las metas establecidas y aplicar acciones correctivas cuando se presentan desviaciones.
 
               .d-flex.flex-column.mb-3
                 p.mt-3.text-white.fw-bold Todo sistema de control está compuesto por tres elementos principales:
@@ -22,12 +21,8 @@
                 p.mb-3.text-white.fw-bold 3. La comparación entre los resultados obtenidos y la norma, junto con la retroalimentación necesaria para orientar la acción correctiva.
               
                 p.mb-3.text-white.fw-bold Las metas y normas se definen durante los procesos de planeación y diseño, y establecen lo que se espera lograr. Estas se reflejan en características de calidad medibles, como las dimensiones de las partes producidas, el número de productos defectuosos, las quejas del cliente o los tiempos de espera.
-              p.mb-0.text-white.fw-bold Los indicadores proporcionan información sobre los resultados reales. A partir de ellos, trabajadores, supervisores o gerentes evalúan si dichos resultados cumplen con las metas y normas establecidas; en caso contrario, se deben implementar acciones correctivas
-              i.fas.fa-quote-right
-            .row.align-items-start
-              .col
-                .bloque-texto-e__autor 
-                  p.mb-0.text-white (Evans & Lindsay, 2005).
+              p.mb-0.text-white.fw-bold Los indicadores proporcionan la información acerca de lo que se logró realmente. Trabajadores, supervisores o gerentes evalúan si los resultados reales cumplen con las metas y las normas; de lo contrario, es preciso emprender una acción correctiva” 
+              p.mb-0.text-white (Evans & Lindsay, 2005).
         .col-sm-12.col-lg-4.d-none.d-lg-block
           img.wcus-1(src='@/assets/curso/temas/t1/1.png', alt='')
       
@@ -127,7 +122,7 @@
         h3.titulo-tercer-nivel__text.mb-0.px-0.py-2 Concepto de control de calidad
 
 
-      .row.justify-content-center.mb-5(data-aos='fade-right')
+      .row.justify-content-center.mb-5.align-items-end(data-aos='fade-right')
         .col-sm-12.col-lg-5.d-none.d-lg-block
           img(src='@/assets/curso/temas/t1/5.png', alt='')
         .col-sm-12.col-lg-7
@@ -137,16 +132,12 @@
             .col-sm-12.col-lg-10
                 p.mb-2 Una vez se tienen definidos los objetivos y los requisitos de calidad del producto, se entiende que se deben controlar las variaciones de esas características, cualidades o especificaciones exigidas sea por el cliente o de acuerdo con una norma. 
                 p.mb-0 Se conoce como control de la calidad, al proceso conformado por una serie de técnicas estadísticas aplicadas a procesos industriales para analizar el comportamiento de las variaciones de los requisitos del producto, con el fin de establecer acciones que mejoren el producto final y su calidad, en pro de aumentar las ventas y la productividad de la empresa.
-          p.mb-3 El control de calidad no solo está encaminado a las inspecciones del producto terminado, sino a las inspecciones durante el proceso de producción.
-          .bloque-texto-e.bg-color-4.px-4.py-3.mb-0
-            .bloque-texto-e__texto
-              i.fas.fa-quote-left
-              p.mb-0.fw-bold En los procesos de manufactura, el control casi siempre se aplica a los materiales que llegan, a los procesos claves y los productos finales
-              i.fas.fa-quote-right
-            .row.align-items-start
-              .col
-                .bloque-texto-e__autor 
-                  p.mb-0 (Evans & Lindsay, 2005).
+          p.mb-4 El control de calidad no solo está encaminado a las inspecciones del producto terminado, sino a las inspecciones durante el proceso de producción.
+          .bloque-texto-e.bg-color-4.px-5.py-4.mb-0
+            .bloque-texto-e__texto.d-flex.flex-column
+              p.mb-0.fw-bold “En los procesos de manufactura, el control casi siempre se aplica a los materiales que llegan, a los procesos claves y los productos finales”
+              p.mb-0.fw-bold (Evans & Lindsay, 2005).
+
 
       p.mb-3(data-aos='fade-right') El cliente es la persona que adquiere el producto o servicio, puede o no utilizarlo y es quien paga por ello. Organizacionalmente se habla de cliente interno para referirse a los trabajadores, aquellos que intervienen en el desarrollo del producto, y el cliente externo es aquel que recibe y usa el producto.
       p.mb-5(data-aos='fade-right') En todo proceso de control de calidad se habla de los requisitos, que no son más que la traducción de las necesidades y expectativas del cliente, se consideran tres niveles:
@@ -441,13 +432,13 @@
         h2 1.2 Gestión de calidad total
       
       
-      .row.justify-content-center.mb-5(data-aos='fade-right')
+      .row.justify-content-center.mb-5.align-items-end(data-aos='fade-right')
         .col-sm-12.col-lg-5.d-none.d-lg-block
           img(src='@/assets/curso/temas/t1/22.png', alt='')
         .col-sm-12.col-lg-7
           .bg-color-1.p-5.mb-5
-            h4.mb-4.text-white La Organización Internacional para la Estandarización define la gestión de la calidad como "las actividades coordinadas para dirigir y controlar una organización en aquello relativo a la calidad. La dirección y control, en aquello relativo a la calidad, generalmente incluye el establecimiento de la política de la calidad y los objetivos de la calidad, el aseguramiento de la calidad y la mejora de la calidad"
-            p.mb-0.text-white (ISO, 2005).
+            h4.mb-1.text-white La Organización Internacional para la Estandarización (ISO), la define como “las actividades coordinadas para dirigir y controlar una organización en aquello relativo a la calidad. La dirección y control, en aquello relativo a la calidad, generalmente incluye el establecimiento de la política de la calidad y los objetivos de la calidad, el aseguramiento de la calidad y la mejora de la calidad".
+            p.mb-0.text-white (ISO, 2005a).
           p.mb-0 Para realizar una gestión de calidad en la empresa se deben tener en cuenta los siguientes enfoques:
       
       
@@ -505,7 +496,7 @@
             h5 Figura 1. 
             span Ciclo de la calidad para la mejora continua.
           figure
-              img(src='@/assets/curso/temas/t1/30.svg', alt='Gráfico circular que ilustra un proceso de mejora en cuatro etapas secuenciales: 1. Planear, 2. Hacer, 3. Verificar y 4. Actuar')
+              img(src='@/assets/curso/temas/t1/30.png', alt='Gráfico circular que ilustra un proceso de mejora en cuatro etapas secuenciales: 1. Planear, 2. Hacer, 3. Verificar y 4. Actuar')
       
       .titulo-tercer-nivel.mb-5(data-aos='fade-right')
         img.titulo-tercer-nivel__icon(src='@/assets/curso/temas/bg/1.svg')
@@ -727,7 +718,7 @@
           .bloque-texto-e.color-primario.p-4.mb-0
             .bloque-texto-e__texto
               i.fas.fa-quote-left
-              p.mb-0.text-white.fw-bold Este sistema está enfocado en primer lugar al cliente, por lo cual se requiere contacto estrecho y conocimiento de sus necesidades, en segundo lugar este tipo de proyectos generan importantes retornos sobre la inversión, y en tercer lugar, este sistema cambia el modo de operar por parte de la dirección, dando lugar a un nuevo enfoque sobre la forma de pensar, planificar, y ejecutar las actividades y procesos
+              p.mb-0.text-white.fw-bold Este sistema está enfocado en primer lugar al cliente, por lo cual se requiere contacto estrecho y conocimiento de sus necesidades, en segundo lugar, este tipo de proyectos generan importantes retornos sobre la inversión, y en tercer lugar, este sistema cambia el modo de operar por parte de la dirección, dando lugar a un nuevo enfoque sobre la forma de pensar, planificar, y ejecutar las actividades y procesos
               i.fas.fa-quote-right
             .row.align-items-start
               .col

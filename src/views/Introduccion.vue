@@ -16,9 +16,8 @@
       .col-sm-12.col-lg-8
         .bloque-texto-e.color-primario.p-5.mb-3
           .bloque-texto-e__texto
-            i.fas.fa-quote-left
-            p.mb-0.text-white.fw-bold El control de procesos se aplica en todo tipo de industria, incluida la de la manufactura, en la cual se aplican sistemas de control que permiten documentar y hacer seguimiento a todo el proceso productivo, esto incluye “procedimientos documentados para todos los procesos clave; entendimiento claro del equipo y ambiente de trabajo adecuados para vigilar y controlar las características críticas de la calidad; procesos de aprobación para el equipo; criterios para la realización del trabajo como normas escritas, muestras o ilustraciones, y actividades de mantenimiento
-            i.fas.fa-quote-right
+            p.mb-0.text-white.fw-bold “El control de procesos se aplica en todo tipo de industria, incluida la de la manufactura, en la cual se aplican sistemas de control que permiten documentar y hacer seguimiento a todo el proceso productivo, esto incluye “procedimientos documentados para todos los procesos clave; entendimiento claro del equipo y ambiente de trabajo adecuados para vigilar y controlar las características críticas de la calidad; procesos de aprobación para el equipo; criterios para la realización del trabajo como normas escritas, muestras o ilustraciones, y actividades de mantenimiento”
+            
           .row.align-items-start
             .col
               .bloque-texto-e__autor 
