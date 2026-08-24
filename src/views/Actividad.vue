@@ -235,7 +235,7 @@ export default {
             {
               id: 'a',
               texto:
-                'A la calidad relacionada con tecnologías como big data, inteligencia artificial e internet de las cosas.',
+                'A la calidad relacionada con tecnologías como <i>big data</i>, inteligencia artificial e internet de las cosas.',
               esCorrecta: true,
             },
             {

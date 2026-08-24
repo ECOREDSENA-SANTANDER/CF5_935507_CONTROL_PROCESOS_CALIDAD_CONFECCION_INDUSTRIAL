@@ -201,7 +201,7 @@ export default {
     {
       termino: '<i>Deep learning</i>',
       significado:
-        'denominado en español aprendizaje profundo. método específico de aprendizaje automático (<i>machine learning</i>) que se puede ver en aplicaciones de reconocimiento de voz e imágenes.',
+        'denominado en español aprendizaje profundo. Método específico de aprendizaje automático (<i>machine learning</i>) que se puede ver en aplicaciones de reconocimiento de voz e imágenes.',
     },
     {
       termino: 'Defecto',
@@ -231,7 +231,7 @@ export default {
     {
       termino: 'ISO',
       significado:
-        ' Organización Internacional de Estandarización, ubicada en Ginebra, Suiza, y con presencia en 193 países. promueve y desarrolla normas para estandarizar productos y servicios.',
+        ' Organización Internacional de Estandarización, ubicada en Ginebra, Suiza, y con presencia en 193 países. Promueve y desarrolla normas para estandarizar productos y servicios.',
     },
     {
       termino: 'Lote de producción',
@@ -251,7 +251,7 @@ export default {
     {
       termino: 'Punto de control',
       significado:
-        'son partes del proceso determinadas con la metodología de árbol de decisión. son las operaciones, fases o procesos en los que se requiere realizar inspecciones para controlar la ocurrencia de defectos, lo cual es una medida preventiva.',
+        'son partes del proceso determinadas con la metodología de árbol de decisión. Son las operaciones, fases o procesos en los que se requiere realizar inspecciones para controlar la ocurrencia de defectos, lo cual es una medida preventiva.',
     },
     {
       termino: 'Punto de control crítico',
@@ -266,7 +266,7 @@ export default {
     {
       termino: '<i>Sigma (σ)</i>',
       significado:
-        'letra del alfabeto griego utilizada para representar la desviación estándar (unidad estadística de medición). representa la dispersión o variabilidad de un conjunto de datos.',
+        'letra del alfabeto griego utilizada para representar la desviación estándar (unidad estadística de medición). Representa la dispersión o variabilidad de un conjunto de datos.',
     },
   ],
   referencias: [

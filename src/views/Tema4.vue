@@ -20,7 +20,7 @@
       #t_4_1.titulo-segundo.color-acento-contenido(data-aos='fade-right')
         h2 4.1 Ficha técnica
       
-      p.mb-3 Como ya se ha mencionado este documento contiene las especificaciones de producción de las prendas, la información contenida en ella puede tener anexos como videos para especificar los métodos del desarrollo de la prenda. El formato puede ser diseñado y utilizado en programas de office como Word o Excel y los espacios creados deben ser diligenciados, tamaño y estilo de letra según normas APA.
+      p.mb-3 Como ya se ha mencionado este documento contiene las especificaciones de producción de las prendas, la información contenida en ella puede tener anexos como videos para especificar los métodos del desarrollo de la prenda. El formato puede ser diseñado y utilizado en programas de Office como Word o Excel y los espacios creados deben ser diligenciados, tamaño y estilo de letra según normas APA.
 
       p.mb-5 Así mismo, las partes que componen la ficha técnica de producción deben cumplir con unos criterios de calidad:
       

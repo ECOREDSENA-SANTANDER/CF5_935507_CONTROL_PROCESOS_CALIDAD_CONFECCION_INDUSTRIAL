@@ -225,7 +225,7 @@
                   ul.lista-ul--color.mb-0
                     li.d-flex.mb-0
                       i.fas.fa-circle.icon-list-2
-                      p.mb-0 A partir de segunda guerra mundial, años 40. 
+                      p.mb-0 A partir de segunda guerra mundial, años 40´s. 
                     li.d-flex.mb-0
                       i.fas.fa-circle.icon-list-2
                       p.mb-0 Estudios de métodos y tiempos para mejorar eficiencia. 
@@ -437,8 +437,7 @@
           img(src='@/assets/curso/temas/t1/22.png', alt='')
         .col-sm-12.col-lg-7
           .bg-color-1.p-5.mb-5
-            h4.mb-1.text-white La Organización Internacional para la Estandarización (ISO), la define como “las actividades coordinadas para dirigir y controlar una organización en aquello relativo a la calidad. La dirección y control, en aquello relativo a la calidad, generalmente incluye el establecimiento de la política de la calidad y los objetivos de la calidad, el aseguramiento de la calidad y la mejora de la calidad".
-            p.mb-0.text-white (ISO, 2005a).
+            h4.mb-1.text-white La Organización Internacional para la Estandarización (ISO), la define como “las actividades coordinadas para dirigir y controlar una organización en aquello relativo a la calidad. La dirección y control, en aquello relativo a la calidad, generalmente incluye el establecimiento de la política de la calidad y los objetivos de la calidad, el aseguramiento de la calidad y la mejora de la calidad". (ISO, 2005a).
           p.mb-0 Para realizar una gestión de calidad en la empresa se deben tener en cuenta los siguientes enfoques:
       
       
@@ -526,7 +525,7 @@
         .col-sm-12.col-lg-1.d-none.d-lg-block
           img(src='@/assets/curso/temas/t1/33.svg', alt='')
         .col-sm-12.col-lg-11
-            p.mb-0 La metodología se encuentra enmarcada dentro del ciclo de mejoramiento continuo (PHVA) el cual, busca que la empresa sea más competitiva haciendo permanente la búsqueda de calidad, la participación es de todo el personal involucrado en la empresa, para que el mejoramiento sea constante. Hablamos del método Kaizen, una estrategia desarrollada en Japón una vez terminada la II guerra mundial y que tiene por objetivo maximizar la producción mediante la mejora continua en los procesos productivos de la empresa, lo que permite reducir las ineficiencias para aumentar la competitividad en el mercado.
+            p.mb-0 La metodología se encuentra enmarcada dentro del ciclo de mejoramiento continuo (PHVA) el cual, busca que la empresa sea más competitiva haciendo permanente la búsqueda de calidad, la participación es de todo el personal involucrado en la empresa, para que el mejoramiento sea constante. Hablamos del método Kaizen, una estrategia desarrollada en Japón una vez terminada la II Guerra Mundial y que tiene por objetivo maximizar la producción mediante la mejora continua en los procesos productivos de la empresa, lo que permite reducir las ineficiencias para aumentar la competitividad en el mercado.
       
       
       
@@ -706,7 +705,7 @@
                 p.mb-0 Al enfocar los procesos desde una perspectiva de búsqueda de soluciones, los propios empleados están capacitados para resolver problemas de forma continua. 
             .row(numero="8" titulo="Fortalecimiento de los equipos")
               .col-12
-                p.mb-0 Al trabajar juntos para resolver problemas, gracias al método Kaizen se fortalecen los vínculos y se construyen equipos mejores y más resistentes, preparados para afrontar cualquier desafío” (OBS Business School, s.f.).
+                p.mb-0 Al trabajar juntos para resolver problemas, gracias al método Kaizen se fortalecen los vínculos y se construyen equipos mejores y más resistentes, preparados para afrontar cualquier desafío (OBS Business School, s.f.).
 
       .titulo-tercer-nivel.mb-5(data-aos='fade-right')
         img.titulo-tercer-nivel__icon(src='@/assets/curso/temas/bg/1.svg')
