@@ -10,11 +10,11 @@
       
       .row.justify-content-center.mb-5.align-items-end(data-aos='fade-right')
         .col-sm-12.col-lg-5.d-none.d-lg-block
-          img(src='@/assets/curso/temas/t2/2.png', alt='')
+          img(src='@/assets/curso/temas/t2/2.png')
         .col-sm-12.col-lg-7
           .row.justify-content-center.mb-5
             .col-sm-12.col-lg-2.d-none.d-lg-block
-              img(src='@/assets/curso/temas/t2/1.svg', alt='')
+              img(src='@/assets/curso/temas/t2/1.svg')
             .col-sm-12.col-lg-10
                 p.mb-0 Recuerde que para el control de los procesos se utiliza la ficha técnica, una guía fundamental para establecer controles de producción y calidad, la cual se adecúa según el proceso desarrollado y describe la información de la referencia a producir, el modelo, número de piezas, medidas de patrones y prenda, materia prima e insumos, ruta operacional y especificaciones de calidad.
           p.mb-0 A partir de la ficha técnica se desarrolla la muestra física, es decir la demostración física del producto a fabricar, el cual se convierte en la guía del proceso productivo y en el elemento clave de las ventas.
@@ -54,7 +54,7 @@
       p.mb-5(data-aos='fade-right') Vale mencionar nuevamente que las partes de una ficha técnica son:
       .row.justify-content-center.mb-5(data-aos='fade-right')
         .col-sm-12.col-lg-6.d-none.d-lg-block
-          img(src='@/assets/curso/temas/t2/4.png', alt='')
+          img(src='@/assets/curso/temas/t2/4.png')
         .col-sm-12.col-lg-6
           LineaTiempoD.color-acento-contenido
             .row(numero="1" titulo="Rótulo o encabezado de la ficha técnica ")
@@ -111,7 +111,7 @@
       
       .row.justify-content-center.mb-5.align-items-end(data-aos='fade-right')
         .col-sm-12.col-lg-5.d-none.d-lg-block
-          img(src='@/assets/curso/temas/t2/7.png', alt='')  
+          img(src='@/assets/curso/temas/t2/7.png')  
         .col-sm-12.col-lg-7
           p.mb-4 La muestra física es la demostración tangible del producto a fabricar, expone de manera real lo que es el producto para fabricar o vender y debe ser fiel a la ficha técnica y viceversa. La muestra física hace parte del paquete técnico, que junto con el patronaje de la prenda aseguran el desarrollo óptimo del proceso, además la muestra de la referencia a producir debe mostrar los requisitos de calidad, para que así mismo sea la guía en los diferentes procesos de confección.
           p.mb-4 Respecto a lo anterior la muestra debe estar disponible tanto al cliente por parte del vendedor quien la da a conocer, y en la planta de producción en el módulo donde se confeccionará para analizar y comparar las diferentes operaciones que la componen.

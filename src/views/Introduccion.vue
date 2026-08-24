@@ -12,7 +12,7 @@
     
     .row.justify-content-center.mb-5
       .col-sm-12.col-lg-4.d-none.d-lg-block
-        img(src='@/assets/curso/temas/intro/1.png', alt='')
+        img(src='@/assets/curso/temas/intro/1.png')
       .col-sm-12.col-lg-8
         .bloque-texto-e.color-primario.p-5.mb-3
           .bloque-texto-e__texto

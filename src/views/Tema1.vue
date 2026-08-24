@@ -24,7 +24,7 @@
               p.mb-0.text-white.fw-bold Los indicadores proporcionan la información acerca de lo que se logró realmente. Trabajadores, supervisores o gerentes evalúan si los resultados reales cumplen con las metas y las normas; de lo contrario, es preciso emprender una acción correctiva” 
               p.mb-0.text-white (Evans & Lindsay, 2005).
         .col-sm-12.col-lg-4.d-none.d-lg-block
-          img.wcus-1(src='@/assets/curso/temas/t1/1.png', alt='')
+          img.wcus-1(src='@/assets/curso/temas/t1/1.png')
       
       
       
@@ -41,14 +41,14 @@
       
       .row.justify-content-center.mb-5(data-aos='fade-right')
         .col-sm-12.col-lg-3.d-none.d-lg-block
-          img(src='@/assets/curso/temas/t1/2.png', alt='')
+          img(src='@/assets/curso/temas/t1/2.png')
         .col-sm-12.col-lg-9
           p.mb-3 La evolución de la industrialización ha requerido ejercer control en los procesos para disminuir los desperdicios y los reprocesos en la producción, dado el mayor nivel de unidades producidas; es por ello que se recurre a la estandarización de procesos y de las características del producto fabricado. 
           p.mb-3 Teniendo en cuenta lo anterior, revisar la producción proporciona mayor confianza en el cliente, mejora la competitividad y se convierte en una herramienta de control de la empresa.
           p.mb-3 Es importante mencionar los principios de la calidad para efectuar su control:
           .row.justify-content-center.mb-5
             .col-sm-12.col-lg-5.d-none.d-lg-block
-              img(src='@/assets/curso/temas/t1/3.svg', alt='')
+              img(src='@/assets/curso/temas/t1/3.svg')
             .col-sm-12.col-lg-7
               .bg-color-2.p-3
                 ul.lista-ul--color.mb-0
@@ -113,7 +113,7 @@
                   span.text-sistema.fw-bold 5
                 p.mb-0 Crosby (1979), resaltó en el concepto el cumplimiento de requisitos y de normas. Ilustra el efecto de la no conformidad y enfoca la atención en temas de prevención.
         .col-sm-12.col-lg-4.d-none.d-lg-block
-          img(src='@/assets/curso/temas/t1/4.svg', alt='')
+          img(src='@/assets/curso/temas/t1/4.svg')
       
       p.mb-5(data-aos='fade-right') Teniendo en cuenta los términos de los estudiosos se puede determinar qué satisfacción, cliente, necesidades, mercado, expectativas son las palabras comunes, que engloban el concepto para concluir que la calidad adecúa el producto a las características especificadas y cumple con los requisitos, que satisfacen las necesidades y expectativas del cliente.
       
@@ -124,11 +124,11 @@
 
       .row.justify-content-center.mb-5.align-items-end(data-aos='fade-right')
         .col-sm-12.col-lg-5.d-none.d-lg-block
-          img(src='@/assets/curso/temas/t1/5.png', alt='')
+          img(src='@/assets/curso/temas/t1/5.png')
         .col-sm-12.col-lg-7
           .row.justify-content-center.mb-4
             .col-sm-12.col-lg-2.d-none.d-lg-block
-              img(src='@/assets/curso/temas/t1/6.svg', alt='')
+              img(src='@/assets/curso/temas/t1/6.svg')
             .col-sm-12.col-lg-10
                 p.mb-2 Una vez se tienen definidos los objetivos y los requisitos de calidad del producto, se entiende que se deben controlar las variaciones de esas características, cualidades o especificaciones exigidas sea por el cliente o de acuerdo con una norma. 
                 p.mb-0 Se conoce como control de la calidad, al proceso conformado por una serie de técnicas estadísticas aplicadas a procesos industriales para analizar el comportamiento de las variaciones de los requisitos del producto, con el fin de establecer acciones que mejoren el producto final y su calidad, en pro de aumentar las ventas y la productividad de la empresa.
@@ -167,10 +167,10 @@
           
       .row.justify-content-center.mb-5(data-aos='fade-right')
         .col-sm-12.col-lg-5.d-none.d-lg-block.mx-0.px-0
-          img(src='@/assets/curso/temas/t1/10.png', alt='')
+          img(src='@/assets/curso/temas/t1/10.png')
         .col-sm-12.col-lg-7.mx-0.px-0
           .bg-color-5.p-4
-            img.mb-4.wcus-2.d-none.d-lg-block(src='@/assets/curso/temas/t1/11.svg', alt='')
+            img.mb-4.wcus-2.d-none.d-lg-block(src='@/assets/curso/temas/t1/11.svg')
             p.mb-4 También existen requisitos relacionados con:
             ul.lista-ul--color.mgcus-2
                 li.d-flex.mb-0
@@ -204,7 +204,7 @@
 
       .row.justify-content-center.mb-5.bg-color-6.p-4(data-aos='fade-right')
         .col-sm-12.col-lg-1.d-none.d-lg-block
-          img(src='@/assets/curso/temas/t1/12.svg', alt='')
+          img(src='@/assets/curso/temas/t1/12.svg')
         .col-sm-12.col-lg-11
            ul.lista-ul--color.mb-0
                 li.d-flex.mb-0
@@ -328,7 +328,7 @@
         .p-full-width
           .row.justify-content-center.align-items-center
             .col-lg-1.d-none.d-lg-block
-              img(src='@/assets/curso/temas/t1/18.svg', alt='')
+              img(src='@/assets/curso/temas/t1/18.svg')
             .col-lg-9.mb-cus
                h2.mb-3.text-white Calidad: instrumento capaz de garantizar el éxito de la gestión a largo plazo evolución del significado de calidad.
                p.mb-0.text-white Para comprender los términos relacionados con la evolución de la calidad puede leer el documento.
@@ -343,11 +343,11 @@
 
       .row.justify-content-center.mb-5.align-items-end(data-aos='fade-right')
         .col-sm-12.col-lg-5.d-none.d-lg-block
-          img(src='@/assets/curso/temas/t1/19.png', alt='')
+          img(src='@/assets/curso/temas/t1/19.png')
         .col-sm-12.col-lg-7
           .row.justify-content-center.mb-5
             .col-sm-12.col-lg-2.d-none.d-lg-block
-              img(src='@/assets/curso/temas/t1/6.svg', alt='')
+              img(src='@/assets/curso/temas/t1/6.svg')
             .col-sm-12.col-lg-10
                 p.mb-0 En la industria textil y de confección se controla la calidad con el fin de mantener y corregir los defectos, errores o no conformidades que se presentan durante la producción de la prenda. Por tanto, se desarrolla según las variables y atributos del producto.
           .bg-color-6.p-4
@@ -376,7 +376,7 @@
 
       .row.justify-content-center.mb-5(data-aos='fade-right')
         .col-sm-12.col-lg-5.d-none.d-lg-block.mx-0.px-0
-          img(src='@/assets/curso/temas/t1/20.png', alt='')
+          img(src='@/assets/curso/temas/t1/20.png')
         .col-sm-12.col-lg-7.mx-0.px-0
           .bg-color-5.p-4
             p.mb-4.mt-3 El control de calidad se realiza en las siguientes fases:
@@ -434,7 +434,7 @@
       
       .row.justify-content-center.mb-5.align-items-end(data-aos='fade-right')
         .col-sm-12.col-lg-5.d-none.d-lg-block
-          img(src='@/assets/curso/temas/t1/22.png', alt='')
+          img(src='@/assets/curso/temas/t1/22.png')
         .col-sm-12.col-lg-7
           .bg-color-1.p-5.mb-5
             h4.mb-1.text-white La Organización Internacional para la Estandarización (ISO), la define como “las actividades coordinadas para dirigir y controlar una organización en aquello relativo a la calidad. La dirección y control, en aquello relativo a la calidad, generalmente incluye el establecimiento de la política de la calidad y los objetivos de la calidad, el aseguramiento de la calidad y la mejora de la calidad". (ISO, 2005a).
@@ -445,43 +445,43 @@
         .tarjeta.bg-color-6.p-4
           .row.justify-content-center.mb-4
             .col-5
-              img(src='@/assets/curso/temas/t1/23.svg', alt='')
+              img(src='@/assets/curso/temas/t1/23.svg')
           h4.text-center Enfoque al cliente
           p.mb-0 Conocer al cliente requisitos y expectativas.
         .tarjeta.bg-color-6.p-4
           .row.justify-content-center.mb-4
             .col-5
-              img(src='@/assets/curso/temas/t1/24.svg', alt='')
+              img(src='@/assets/curso/temas/t1/24.svg')
           h4.text-center Enfoque estratégico
           p.mb-0 Establecer los objetivos de calidad como claves en la visión de la empresa.
         .tarjeta.bg-color-6.p-4
           .row.justify-content-center.mb-4
             .col-5
-              img(src='@/assets/curso/temas/t1/25.svg', alt='')
+              img(src='@/assets/curso/temas/t1/25.svg')
           h4.text-center Liderazgo
           p.mb-0 Enfocado en el compromiso positivo de la dirección de la empresa.
         .tarjeta.bg-color-6.p-4
           .row.justify-content-center.mb-4
             .col-5
-              img(src='@/assets/curso/temas/t1/26.svg', alt='')
+              img(src='@/assets/curso/temas/t1/26.svg')
           h4.text-center Enfoque en procesos
           p.mb-0 Control de procesos.
         .tarjeta.bg-color-6.p-4
           .row.justify-content-center.mb-4
             .col-5
-              img(src='@/assets/curso/temas/t1/27.svg', alt='')
+              img(src='@/assets/curso/temas/t1/27.svg')
           h4.text-center Orientación a las personas
           p.mb-0 Para aumentar el nivel de compromiso y satisfacción del cliente interno es necesario involucrar al personal y capacitarlo permanentemente.
         .tarjeta.bg-color-6.p-4
           .row.justify-content-center.mb-4
             .col-5
-              img(src='@/assets/curso/temas/t1/28.svg', alt='')
+              img(src='@/assets/curso/temas/t1/28.svg')
           h4.text-center Enfoque científico
           p.mb-0.text-center Evaluación de la calidad con evidencias y datos, es decir método científico.
         .tarjeta.bg-color-6.p-4
           .row.justify-content-center.mb-4
             .col-5
-              img(src='@/assets/curso/temas/t1/29.svg', alt='')
+              img(src='@/assets/curso/temas/t1/29.svg')
           h4.text-center Mejora continua, innovación y aprendizaje
           p.mb-0 Todo proceso es susceptible de mejorar, no es solo corregir sino actuar de forma proactiva.
       
@@ -503,7 +503,7 @@
       
       .row.justify-content-center.mb-5.align-items-end(data-aos='fade-right')
         .col-sm-12.col-lg-5.d-none.d-lg-block
-          img(src='@/assets/curso/temas/t1/31.png', alt='')
+          img(src='@/assets/curso/temas/t1/31.png')
         .col-sm-12.col-lg-7
           p.mb-3 Es el conjunto de principios, valores y comportamientos que rigen la forma de actuar de un grupo de personas que hacen parte de la organización, y que trabajan de manera voluntaria para mejorar el funcionamiento de las áreas de trabajo, para que interactúen entre ellas y logren en equipo los objetivos propuestos en relación con la calidad del producto y la satisfacción del cliente. Su implementación requiere de capacitación efectiva y constante, interacción mediante comunicación asertiva y eficaz para seguir construyendo una cultura de calidad sólida.
           p.mb-0 La metodología sugerida para la implementación de esta cultura dentro de una organización son los círculos de calidad desarrollados por Kaoru Ishikawa, quien creía que la calidad empieza con el cliente, y por tanto, comprender sus necesidades es la base para la mejora continua.
@@ -523,7 +523,7 @@
       
       .row.justify-content-center.mb-5.align-items-center(data-aos='fade-right')
         .col-sm-12.col-lg-1.d-none.d-lg-block
-          img(src='@/assets/curso/temas/t1/33.svg', alt='')
+          img(src='@/assets/curso/temas/t1/33.svg')
         .col-sm-12.col-lg-11
             p.mb-0 La metodología se encuentra enmarcada dentro del ciclo de mejoramiento continuo (PHVA) el cual, busca que la empresa sea más competitiva haciendo permanente la búsqueda de calidad, la participación es de todo el personal involucrado en la empresa, para que el mejoramiento sea constante. Hablamos del método Kaizen, una estrategia desarrollada en Japón una vez terminada la II Guerra Mundial y que tiene por objetivo maximizar la producción mediante la mejora continua en los procesos productivos de la empresa, lo que permite reducir las ineficiencias para aumentar la competitividad en el mercado.
       
@@ -531,11 +531,11 @@
       
       .row.justify-content-center.mb-5.align-items-end(data-aos='fade-right')
         .col-sm-12.col-lg-3.d-none.d-lg-block
-          img(src='@/assets/curso/temas/t1/35.png', alt='')
+          img(src='@/assets/curso/temas/t1/35.png')
         .col-sm-12.col-lg-8
           .row.justify-content-center.mb-5
             .col-sm-12.col-lg-5.d-none.d-lg-block.bg-color-5
-              img(src='@/assets/curso/temas/t1/34.svg', alt='')
+              img(src='@/assets/curso/temas/t1/34.svg')
             .col-sm-12.col-lg-7
               .bg-color-2.p-4
                 p.mb-0.text-white De acuerdo con el OBS Business School (s.f.) “esta filosofía aboga por la participación de todos y el involucramiento comprometido de cada individuo orientada a una mejora. En otras palabras, si bien la mayoría de los cambios pueden no resultar ser de grandes dimensiones, su impacto sí es susceptible de impulsar repercusiones significativas, en especial cuando se orienta a transformaciones dirigidas por la alta dirección de proyectos y cuando se aplican sus preceptos por parte de equipos multifuncionales”.
@@ -543,7 +543,7 @@
       
       .row.justify-content-center.mb-5.align-items-end(data-aos='fade-right')
         .col-sm-12.col-lg-5.d-none.d-lg-block
-          img(src='@/assets/curso/temas/t1/36.png', alt='')
+          img(src='@/assets/curso/temas/t1/36.png')
         .col-sm-12.col-lg-7
           .bg-color-6.p-5
             ul.lista-ul--color.mb-0
@@ -678,7 +678,7 @@
       p.mb-5(data-aos='fade-right') Las ventajas de aplicar el método Kaizen no se limitan a un aumento de la productividad sino que se trasladan a otros ámbitos, contribuyendo a lograr:
       .row.justify-content-center.mb-5(data-aos='fade-right')
         .col-sm-12.col-lg-5.d-none.d-lg-block
-          img(src='@/assets/curso/temas/t1/39.png', alt='')
+          img(src='@/assets/curso/temas/t1/39.png')
         .col-sm-12.col-lg-7
           LineaTiempoD.color-acento-contenido
             .row(numero="1" titulo="Disminución de la generación de residuos")
@@ -724,7 +724,7 @@
                 .bloque-texto-e__autor 
                   p.mb-0.text-white León (2009)
         .col-sm-12.col-lg-4.d-none.d-lg-block
-          img(src='@/assets/curso/temas/t1/40.png', alt='')
+          img(src='@/assets/curso/temas/t1/40.png')
       
       p.mb-5(data-aos='fade-right') El método se basa en la metodología DMAMC, que permite desarrollar mejoras siguiendo estos pasos:
 
@@ -733,41 +733,41 @@
         .p-full-width
           .row.justify-content-center.align-items-center
             .col-lg-3.d-none.d-lg-block
-              img(src='@/assets/curso/temas/t1/41.png', alt='')
+              img(src='@/assets/curso/temas/t1/41.png')
             .col-lg-9
               SlyderF.circl-arrow.mb-4(columnas="col-md-6 col-lg-6 col-xl-4")
                 .tarjeta.bg-color-4.p-4.hcard-1
                   .row.justify-content-center.mb-3
                     .col-6
-                      img(src='@/assets/curso/temas/t1/42.svg' alt='')
+                      img(src='@/assets/curso/temas/t1/42.svg')
                   .bg-color-1.px-3.py-1.mb-3
                     h4.mb-0.text-center.text-white Definir
                   p.mb-0  El objetivo del problema o defecto para validar, además de los miembros del programa.
                 .tarjeta.bg-color-4.p-4.hcard-1
                   .row.justify-content-center.mb-3
                     .col-6
-                      img(src='@/assets/curso/temas/t1/43.svg' alt='')
+                      img(src='@/assets/curso/temas/t1/43.svg')
                   .bg-color-1.px-3.py-1.mb-3
                     h4.mb-0.text-center.text-white Medir
                   p.mb-0  La información suministrada para entender el problema o defecto.
                 .tarjeta.bg-color-4.p-4.hcard-1
                   .row.justify-content-center.mb-3
                     .col-6
-                      img(src='@/assets/curso/temas/t1/44.svg' alt='')
+                      img(src='@/assets/curso/temas/t1/44.svg')
                   .bg-color-1.px-3.py-1.mb-3
                     h4.mb-0.text-center.text-white Analizar
                   p.mb-0  La información e investigar causas reales del problema o defecto, mediante la aplicación de herramientas estadísticas descriptivas y diferenciales.
                 .tarjeta.bg-color-4.p-4.hcard-1
                   .row.justify-content-center.mb-3
                     .col-6
-                      img(src='@/assets/curso/temas/t1/45.svg' alt='')
+                      img(src='@/assets/curso/temas/t1/45.svg')
                   .bg-color-1.px-3.py-1.mb-3
                     h4.mb-0.text-center.text-white Mejorar
                   p.mb-0  Determinar y proponer las mejoras o soluciones a los problemas o defectos planteados.
                 .tarjeta.bg-color-4.p-4.hcard-1
                   .row.justify-content-center.mb-3
                     .col-6
-                      img(src='@/assets/curso/temas/t1/47.svg' alt='')
+                      img(src='@/assets/curso/temas/t1/47.svg')
                   .bg-color-1.px-3.py-1.mb-3
                     h4.mb-0.text-center.text-white Controlar
                   p.mb-0  Tomar medidas para mantener el progreso, valorando en términos económicos y el nivel de satisfacción al cliente. Los cuales se realizan mediante métodos estadísticos de seguimiento de variables del proceso.
@@ -810,11 +810,11 @@
       
       .row.justify-content-center.mb-5.align-items-end(data-aos='fade-right')
         .col-sm-12.col-lg-5.d-none.d-lg-block
-          img(src='@/assets/curso/temas/t1/50.png', alt='')
+          img(src='@/assets/curso/temas/t1/50.png')
         .col-sm-12.col-lg-7
           .row.justify-content-center.mb-5
             .col-sm-12.col-lg-2.d-none.d-lg-block
-              img(src='@/assets/curso/temas/t1/51.svg', alt='')
+              img(src='@/assets/curso/temas/t1/51.svg')
             .col-sm-12.col-lg-10
                 p.mb-0 El sistema de gestión de la calidad es una herramienta administrativa, cuenta con una estructura organizada para integrar todos los procesos, integrando los elementos necesarios para lograr cumplir las necesidades y expectativas del cliente.
           p.mb-0 Obtener la certificación es evidenciar la capacidad que tiene la empresa de cumplir con los requisitos, además permite que la organización opere de forma más eficiente, identifique riesgos y los aborde oportunamente, cumpla con los requisitos reglamentarios y llegue a nuevos mercados. Una vez certificada la empresa la vigencia del sello de calidad es de 3 años, durante los cuales se realizan auditorías de seguimiento por parte del ente certificador y una vez pasados los tres años se debe realizar una auditoría para la renovación. La certificación es una constancia de valor a nivel internacional.
@@ -823,10 +823,10 @@
 
       .row.justify-content-center.mb-0(data-aos='fade-right')
         .col-sm-12.col-lg-5.d-none.d-lg-block.mx-0.px-0
-          img(src='@/assets/curso/temas/t1/53.png', alt='')
+          img(src='@/assets/curso/temas/t1/53.png')
         .col-sm-12.col-lg-7.mx-0.px-0
           .bg-color-5.p-4
-            img.mb-4.wcus-2(src='@/assets/curso/temas/t1/52.svg', alt='')
+            img.mb-4.wcus-2(src='@/assets/curso/temas/t1/52.svg')
             p.mgcus-1 Basada en los principios de gestión de calidad, la norma ISO 9001:2015 define el modo en el que una organización funciona para cumplir con los requisitos de sus clientes y accionistas:
             ul.lista-ul--color.mb-5
               li.d-flex.mb-0

@@ -25,7 +25,7 @@
       
       .row.justify-content-center.mb-0.align-items-end(data-aos='fade-right')
         .col-sm-12.col-lg-5.d-none.d-lg-block
-          img(src='@/assets/curso/temas/t3/2.png', alt='')  
+          img(src='@/assets/curso/temas/t3/2.png')  
         .col-sm-12.col-lg-7
           p.mb-4 Se debe establecer la diferencia entre los puntos de control y los puntos de control crítico, para tener claridad en el control de calidad de la prenda. Una vez se analiza el flujo de los procesos mediante los diagramas de operaciones y flujogramas, se determina en el proceso y en la prenda, los puntos a inspeccionar según su relevancia y así se establece la clasificación.
           p.mb-4 En el patronaje se debe inspeccionar el número de piezas, anchos de costuras, medidas de patrón y de prenda terminada. Además, las medidas en cortes para la unión de piezas, cada lado a unir debe corresponder exactamente, se debe disponer del tiempo necesario para realizar la revisión sea en un patrón manual o en el programa especializado.
@@ -40,10 +40,10 @@
 
       .row.justify-content-center.mb-0(data-aos='fade-right')
         .col-sm-12.col-lg-5.d-none.d-lg-block.mx-0.px-0
-          img(src='@/assets/curso/temas/t3/3.png', alt='')
+          img(src='@/assets/curso/temas/t3/3.png')
         .col-sm-12.col-lg-7.mx-0.px-0
           .bg-color-5.p-4
-            img.mb-4.wcus-2.d-none.d-lg-block(src='@/assets/curso/temas/t3/4.svg', alt='')
+            img.mb-4.wcus-2.d-none.d-lg-block(src='@/assets/curso/temas/t3/4.svg')
             p.mb-4 En el corte se debe revisar una vez se termina de extender y antes de iniciar el corte las unidades de capas y alineación del tendido, la apariencia de la tela, también tener cuidado de la separación del corte, sobre todo en el caso de si se han extendido diferentes rollos de tela en el mismo corte. Se debe revisar el cumplimiento de tiempos de reposo.
             p.mb-5 En la separación, tiqueteado y paqueteo de las piezas, el inspector de calidad debe revisar el corte de las piezas al comparar con el patronaje de la pieza, contar las piezas del paquete, el sistema de amarre y rotulado. Es importante disponer de un puesto de trabajo para la inspección con excelente luz y limpieza para determinar defectos en la tela y en el corte de las piezas. Así mismo, la disposición de las piezas para evitar contaminaciones del paquete con otros colores, por ejemplo, de la referencia.
 
@@ -60,11 +60,11 @@
 
       .row.justify-content-center.mb-5(data-aos='fade-right')
         .col-sm-12.col-lg-3.d-none.d-lg-block
-          img(src='@/assets/curso/temas/t3/5.png', alt='')
+          img(src='@/assets/curso/temas/t3/5.png')
         .col-sm-12.col-lg-9
           .row.justify-content-center.mb-5
             .col-sm-12.col-lg-5.d-none.d-lg-block
-              img(src='@/assets/curso/temas/t3/6.svg', alt='')
+              img(src='@/assets/curso/temas/t3/6.svg')
             .col-sm-12.col-lg-7
               .bg-color-2.p-4
                 .titulo-tercer-nivel.mb-5
@@ -82,7 +82,7 @@
 
       .row.justify-content-center.mb-0.align-items-center(data-aos='fade-right')
         .col-sm-12.col-lg-1.d-none.d-lg-block
-          img(src='@/assets/curso/temas/t3/7.svg', alt='')
+          img(src='@/assets/curso/temas/t3/7.svg')
         .col-sm-12.col-lg-11
             p.mb-0 Al finalizar la confección en cada módulo de producción o línea de la referencia, se revisa el producto terminado antes de realizar los procesos de planchado, de lavandería, empaque y embalaje; pero igualmente se debe inspeccionar una vez se realice el planchado si es requerido y su empaque.
             p.mb-0 Se deben establecer las medidas para la atención de prendas que no fueron aceptadas en las inspecciones y las acciones para su tratamiento.
@@ -93,7 +93,7 @@
       
       .row.justify-content-center.mb-0(data-aos='fade-right')
         .col-sm-12.col-lg-4.d-none.d-lg-block
-          img(src='@/assets/curso/temas/t3/8.png', alt='')
+          img(src='@/assets/curso/temas/t3/8.png')
         .col-sm-12.col-lg-8
           .cajon.color-acento-contenido.p-5
             p.mb-0 El lote piloto son unas unidades que se confeccionan con el fin de simular la producción de cierta referencia nueva. Es necesario una vez se desarrolla el producto nuevo, realizar simulaciones para prever fallas en la producción; la información proporcionada una vez se realice el lote piloto brinda confianza y señala las estrategias a efectuar en el momento de la producción de la prenda.
@@ -103,7 +103,7 @@
       #t_3_5.titulo-segundo.color-acento-contenido(data-aos='fade-right')
         h2 3.5 Puntos de control en compras: materiales e insumos
       
-      img.d-none.d-lg-block.mb-5(src='@/assets/curso/temas/t3/9.png', alt='')(data-aos='fade-right')
+      img.d-none.d-lg-block.mb-5(src='@/assets/curso/temas/t3/9.png')(data-aos='fade-right')
       p.mb-0(data-aos='fade-right') En las áreas de bodegas y almacenes se deben realizar las inspecciones necesarias antes de la integración del producto, en donde se realiza el alistamiento de los insumos necesarios para la confección y se integran al paquete de las unidades cortadas, según las unidades establecidas. En el caso de telas se puede apoyar el control con equipos como revisadoras de telas para inspeccionar los defectos.
 
   </template>
